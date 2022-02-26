@@ -78,7 +78,6 @@ function generatePassword() {
     }
   }
   console.log('passwordStr: '+passwordStr);
-
   return passwordStr;
 }
 
